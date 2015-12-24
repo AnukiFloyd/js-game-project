@@ -1,0 +1,12 @@
+.basket {
+	width: 150px;
+	position: fixed;
+	bottom: 2px;
+	left: 50%;
+}
+
+.fruit {
+	width: 75px;
+	position: fixed;
+	left: 300px
+}
