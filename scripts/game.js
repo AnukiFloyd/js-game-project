@@ -64,5 +64,5 @@ setInterval(function() {
 		player.fruits++;
 		player.score +=12;
 	}
-
+	$("#info").text("ქულები: " + player.score);
 }, 500);
